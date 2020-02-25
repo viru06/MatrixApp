@@ -1,0 +1,6 @@
+C:\Users\viren\source\repos\MatrixApp\bin\Debug\MatrixApp.exe.config
+C:\Users\viren\source\repos\MatrixApp\bin\Debug\MatrixApp.exe
+C:\Users\viren\source\repos\MatrixApp\bin\Debug\MatrixApp.pdb
+C:\Users\viren\source\repos\MatrixApp\obj\Debug\MatrixApp.csprojAssemblyReference.cache
+C:\Users\viren\source\repos\MatrixApp\obj\Debug\MatrixApp.exe
+C:\Users\viren\source\repos\MatrixApp\obj\Debug\MatrixApp.pdb
